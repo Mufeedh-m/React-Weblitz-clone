@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Weblitz-clone/static/css/main.c0932040.css",
+    "main.js": "/React-Weblitz-clone/static/js/main.2ec735ac.js",
+    "static/js/453.09d10a85.chunk.js": "/React-Weblitz-clone/static/js/453.09d10a85.chunk.js",
+    "index.html": "/React-Weblitz-clone/index.html",
+    "main.c0932040.css.map": "/React-Weblitz-clone/static/css/main.c0932040.css.map",
+    "main.2ec735ac.js.map": "/React-Weblitz-clone/static/js/main.2ec735ac.js.map",
+    "453.09d10a85.chunk.js.map": "/React-Weblitz-clone/static/js/453.09d10a85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0932040.css",
+    "static/js/main.2ec735ac.js"
+  ]
+}
